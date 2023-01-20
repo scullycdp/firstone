@@ -1,8 +1,10 @@
 ---
-layout: page
-title: "Scully's new page"
-permalink: /https://scullycdp.github.io/firstone/newpage
+layout: default
 ---
-# the header for the new page
 
-Yay!!
+## Welcome to another page
+
+_yay_
+
+[back](./)
+
