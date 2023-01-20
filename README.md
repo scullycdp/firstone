@@ -6,3 +6,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 [Link to New Page](http://scullycdp.github.io/firstone/newpage.html)
 
 [preview the theme to see what it looks like](http://pages-themes.github.io/minimal)
+
+[Link to another page](./newpage.html).
